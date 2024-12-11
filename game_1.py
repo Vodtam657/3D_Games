@@ -1,5 +1,5 @@
 from direct.showbase.ShowBase import ShowBase
-from mapmanager import Mapmanager
+from mapmanagerii import Mapmanager
 
 class Game(ShowBase):
     def __init__(self):
