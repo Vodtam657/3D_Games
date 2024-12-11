@@ -1,4 +1,4 @@
-from direct.ShowBase import ShowBase
+from direct.showbase.ShowBase import ShowBase
 
 
 
